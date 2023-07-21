@@ -1,0 +1,19 @@
+{
+  "name": "project9_bookbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon idnex.js",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.3.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22"
+  }
+}
